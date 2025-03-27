@@ -39,7 +39,7 @@ This project, completed for INFO8687 - Business Analysis, explores a strategic a
 - Microsoft Word & Excel for documentation  
 
 ## 📂 File Structure
-
+  https://github.com/quality4life/BusinessAnalysis/CapStone Project for Dollarama Enhancements.docx
 ## 💡 Learnings & Value
 - Developed practical business analysis skills using real-world scenarios
 - Conducted stakeholder-aligned solution assessments
